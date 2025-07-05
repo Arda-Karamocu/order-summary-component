@@ -20,7 +20,7 @@ The Order Summary Component is a clean and responsive UI that allows users to re
 
 ## 📸 Screenshot
 
-![Order Summary Screenshot](.src/active-states.jpg)
+![Order Summary Screenshot](./src/active-states.jpg)
 
 ## 📦 Getting Started
 
